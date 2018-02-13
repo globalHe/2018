@@ -1,5 +1,9 @@
 title: SSR软件自取处
 description: Powered by Xinha News Agency.
 show_downloads: true
+ruanjian:
+  android_url: http://p43gqhrhy.bkt.clouddn.com/ssr-android.apk
+  mac_url: http://p43gqhrhy.bkt.clouddn.com/ssr-mac.dmg
+  pc_url: http://p43gqhrhy.bkt.clouddn.com/ShadowsocksR-win-4.8.1.zip
 google_analytics:
 theme: jekyll-theme-modernist
