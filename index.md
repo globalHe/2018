@@ -2,6 +2,23 @@
 layout: default
 ---
 
+下面是使用教程，线路大全在最后，不行就换。
+
+# [](#header-1)iOS版
+分三步，登录 App Store 海外帐号，下载软件，添加线路。
+1.如果您有海外区域苹果账户可到 App Store 购买Shadowrocket。也可使用下面的 App Store 账号下载 Shadowrocket。
+# [](#header-2)！！！注意！请勿使用该帐号登陆iCloud!该操作可能导致隐私泄露，包括照片，密码，联系人列表等！请只用该账号登录AppStore并在下载后退出此帐号！！！
+```js
+用户名：auv@outlook.ie
+密码：Ab2018@2018
+```
+先更换 AppStore 账号到提供的美区账号，进入商店，搜索 Shadowrocket，即可免费下载。
+2.下载完成后，打开 Shadowrocket App，然后在主界面点击左上角的相机按钮，进入扫码界面后扫取最后的二维码，或是点击右上角从相册读取。
+3.当提示「保存成功」时就表示成功获取了节点。Shadowrocket 会自动返回主界面，点击未连接对应的按钮，跳出来的窗口（如果有）点击Allow/信任，输入设备密码（如果有），返回App，再连接即可。全局路由调成配置可用，如果不可用换其他的试试。
+
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
