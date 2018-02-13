@@ -4,7 +4,7 @@ layout: default
 
 下面是使用教程，线路大全在最后，不行就换。
 
-# [](#header-1)iOS版
+# [](#header-1)iOS 版
 分三步，登录 App Store 海外帐号，下载软件，添加线路。
 
 1.如果您有海外区域苹果账户可到 App Store 购买Shadowrocket。也可使用下面的 App Store 账号下载 Shadowrocket。
@@ -25,7 +25,7 @@ layout: default
 如果选择了ssr://开头的链接线路，粘贴到 Safari，点击打开即可。
 
 3.当提示「保存成功」时就表示成功获取了节点。Shadowrocket 会自动返回主界面，点击未连接对应的按钮，跳出来的窗口（如果有）点击Allow/信任，输入设备密码（如果有），返回App，再连接即可。全局路由调成配置可用，如果不可用换其他的试试。
-# [](#header-1)安卓版
+# [](#header-1)Android 版
 下载客户端，安装，然后您有两种方式导入所有节点
 
 如果选择了二维码链接：打开app，点击左上角的“ShadowsocksR”，找到扫描二维码添加，添加完后左右滑动删除FreeSSR开头的官方不可用订阅，选择与节点一起删除，确定。
@@ -33,23 +33,34 @@ layout: default
 如果选择了ssr://开头的文字链接：在手机上默认浏览器中打开ssr://开头的文字链接，然后点击确定，即可批量添加节点。
 
 导入节点后，路由选择绕过大陆，右上角点小飞机开启就可以上网了。
-# [](#header-1)Mac版
+# [](#header-1)Mac 版
 下载客户端，安装（拖入应用文件夹），然后您有两种方式导入所有节点
+
 如果选择了二维码链接：江二维码放在屏幕中间，顶栏中右键小飞机--从屏幕截取二维码。
+
 如果选择了ssr://开头的文字链接：复制链接，顶栏中右键小飞机--找到“从剪贴板添加ssr://线路”一类的选项
+
 导入节点后，选择一个合适的服务器，然后开启全局代理即可上网。（若需要使用白名单模式或者PAC模式，请先更新相关文件。）
 
-# [](#header-1
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# [](#header-1)Windows 版
 
-[Link to another page](another-page).
+下载客户端，将里面的所有文件解压到一个空文件夹里，运行程序（有dotnet4和dotnet2两种版本，win7以上请选择4，老旧系统不支持4的请运行2）（若提示端口被占用请右键小飞机，选项设置，（推荐）把本地端口修改为1085），然后您有两种方式导入所有节点
 
-There should be whitespace between paragraphs.
+如果选择了二维码链接：江二维码放在屏幕中间，顶栏中右键小飞机--从屏幕截取二维码。
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+如果选择了ssr://开头的文字链接：复制链接，顶栏中右键小飞机--找到“从剪贴板添加ssr://线路”一类的选项
 
-# [](#header-1)Header 1
+导入节点后，先右键任务栏中的小飞机图标，点击 服务器——编辑服务器，删除FreeSSR开头的示例节点，然后右键小飞机，取消负载均衡，选择线路，系统代理模式选”全局模式”，代理规则选“绕过局域网和大陆”，然后即可上网。
+# [](#header-1)线路大全
+1.晚会专用节点，wxkxsw.com赞助
 
+![二维码链接](https://i.loli.net/2018/02/14/5a830e24bd789.jpg)
+
+2.如果上面那个崩了可以去 Novalive 上注册帐号临时用一下，流量有限，不够可以氪金
+
+<a href="http://xn--nos792g.top">点击注册</a>
+
+3.
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## [](#header-2)Header 2
