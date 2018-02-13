@@ -61,7 +61,7 @@ layout: default
 <a href="http://xn--nos792g.top">点击注册</a>
 
 3.下面是网络收集的几个节点，随时失效：
-
+```
 ssr://cnUuc3RhcmRvY2sudG9wOjUwMDphdXRoX2FlczEyOF9tZDU6Y2hhY2hhMjA6dGxzMS4yX3RpY2tldF9hdXRoOmMzUmxZVzFqYmcvP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz1jblUmZ3JvdXA9
-
+```
 更多的可以上https://ssrshare.com 线路挺多
