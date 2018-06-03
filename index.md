@@ -22,4 +22,4 @@ layout: default
 诗词大赏投稿期限将延长至2018年7月20日，详情请访问https://mohuwang.github.io/SummerPoem 以了解。
 
 # [](#header-5)投稿方式
-发送邮件到：xinhanewsa@gmail.com .
+发送邮件到：xinhanewsa@gmail.com
